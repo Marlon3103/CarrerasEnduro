@@ -1,0 +1,65 @@
+h1 {
+    text-align: center;
+    color: rgb(204, 93, 24);
+    font-family: cursive;
+}
+
+h2 {
+    color:azure;
+    border: solid;
+    border-bottom-color: black;
+    width: 100px;
+    border-top-color: orange;
+   
+}
+    
+    
+
+#ENDURO {
+    width: 1500PX;
+}
+
+
+#imagen, img {
+    display: block;
+    position: relative;
+}
+
+#info {
+    display: block;
+    position: absolute;
+    bottom: 800px;
+    left: 0;
+    color: azure;
+    width: 750px;
+    
+}
+
+body{
+
+    background-color:grey;
+}
+
+
+#text {
+    text-align: center;
+    font-family: vladimir script;
+    color: black;
+}
+
+#foto, photo {
+    display: block;
+    position: relative;
+}
+
+#contenedor {
+    display: block;
+    position: absolute;
+    bottom: 500px;
+    left: 10px;
+    color: black;
+    width: 750px;
+    border: solid;
+  
+    background: rgb(from #d9370b r g b);
+}
